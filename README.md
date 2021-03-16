@@ -5,7 +5,7 @@ A bash script to predict how long you will need to read a document.
 Execute the script directly in bash via
 
 ```bash
-./readspeed.sh
+./read-speed.sh
 ```
 
 Once the program begins:
